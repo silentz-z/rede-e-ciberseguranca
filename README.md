@@ -1,5 +1,5 @@
 # 🛡️ Enterprise Network Redundancy & Cyber Defense Topology Lab (v2)
-![Topology Preview](img-topology)
+![Topology Preview](img-topology.png)
 
 ## 📌 Visão Geral do Projeto
 Este repositório contém o projeto de infraestrutura de rede corporativa de alta disponibilidade e resiliência de borda simulado no **Cisco Packet Tracer 9.0.1**.
